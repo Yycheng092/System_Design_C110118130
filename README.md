@@ -12,3 +12,14 @@ C110118130_楊祐誠
 - [ ] To do list
 - [X] To do list
 - [ ] 2nd thing
+
+```python
+s = 'Python Highlihthing Text'
+print(s)
+```
+
+```js
+var s = "javascript syntax test";
+alert(s)
+```
+
