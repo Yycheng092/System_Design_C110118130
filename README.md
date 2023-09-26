@@ -12,6 +12,19 @@ C110118130_楊祐誠
 **粗體** *斜體* ***粗斜體*** ~~刪除線~~
 
 
+list
+1.  First ordered list item
+2.  Another item
+    ..* Unordered sub-list.
+3.  Actual numbers don't matter, just that's a number
+    . . 1. Ordered sub-list
+    ... 2.2nd
+4.  And another number
+    ...* note 1
+    ...* note 2
+    ***  note 3
+    
+
 ![NKUST](https://github.com/Yycheng092/System_Design_C110118130/assets/142778228/3aca5180-2845-43a6-bb10-610ea4d19619)
 - [ ] To do list
 - [X] To do list
